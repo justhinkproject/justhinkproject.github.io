@@ -1,0 +1,9 @@
+#first {
+    float: left;
+    width:  1414px;
+    object-fit: cover;
+}
+
+body{
+    font-size: 0;
+}
